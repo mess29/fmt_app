@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "name": "Galatasaray",
+    "logo": "assets/icons/favorite_team_logo.png",
+    "stadium": "Türk Telekom Stadyumu",
+    "coach": "Okan Buruk",
+    "founded": 1905
+  },
+  {
+    "id": "2",
+    "name": "Fenerbahçe",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Şükrü Saracoğlu Stadyumu",
+    "coach": "İsmail Kartal",
+    "founded": 1907
+  },
+  {
+    "id": "3",
+    "name": "Beşiktaş",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Vodafone Park",
+    "coach": "Şenol Güneş",
+    "founded": 1903
+  },
+  {
+    "id": "4",
+    "name": "Trabzonspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Şenol Güneş Spor Kompleksi",
+    "coach": "Abdullah Avcı",
+    "founded": 1967
+  },
+  {
+    "id": "5",
+    "name": "Başakşehir",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Fatih Terim Stadyumu",
+    "coach": "Emre Belözoğlu",
+    "founded": 1990
+  },
+  {
+    "id": "6",
+    "name": "Adana Demirspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Yeni Adana Stadyumu",
+    "coach": "Patrick Kluivert",
+    "founded": 1940
+  },
+  {
+    "id": "7",
+    "name": "Konyaspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Konya Büyükşehir Stadyumu",
+    "coach": "Aleksandar Stanojevic",
+    "founded": 1922
+  },
+  {
+    "id": "8",
+    "name": "Kayserispor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "RHG Enertürk Enerji Stadyumu",
+    "coach": "Çağdaş Atan",
+    "founded": 1966
+  },
+  {
+    "id": "9",
+    "name": "Sivasspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Sivas 4 Eylül Stadyumu",
+    "coach": "Rıza Çalımbay",
+    "founded": 1967
+  },
+  {
+    "id": "10",
+    "name": "Gaziantep FK",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Kalyon Stadyumu",
+    "coach": "Erol Bulut",
+    "founded": 1988
+  },
+  {
+    "id": "11",
+    "name": "Antalyaspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Antalya Stadyumu",
+    "coach": "Nuri Şahin",
+    "founded": 1966
+  },
+  {
+    "id": "12",
+    "name": "Alanyaspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Bahçeşehir Okulları Stadyumu",
+    "coach": "Francesco Farioli",
+    "founded": 1948
+  },
+  {
+    "id": "13",
+    "name": "Giresunspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Çotanak Stadyumu",
+    "coach": "Hakan Keleş",
+    "founded": 1925
+  },
+  {
+    "id": "14",
+    "name": "Hatayspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Mersin Stadyumu",
+    "coach": "Volkan Demirel",
+    "founded": 1967
+  },
+  {
+    "id": "15",
+    "name": "Ankaragücü",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Eryaman Stadyumu",
+    "coach": "Ömer Erdoğan",
+    "founded": 1911
+  },
+  {
+    "id": "16",
+    "name": "Ümraniyespor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Ümraniye Belediyesi Şehir Stadyumu",
+    "coach": "Recep Uçar",
+    "founded": 1938
+  },
+  {
+    "id": "17",
+    "name": "İstanbulspor",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Necmi Kadıoğlu Stadyumu",
+    "coach": "Fatih Tekke",
+    "founded": 1926
+  },
+  {
+    "id": "18",
+    "name": "Kasımpaşa",
+    "logo": "assets/icons/milli_takim.png",
+    "stadium": "Recep Tayyip Erdoğan Stadyumu",
+    "coach": "Şenol Can",
+    "founded": 1921
+  }
+]

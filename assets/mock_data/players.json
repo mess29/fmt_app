@@ -1,0 +1,253 @@
+{
+  "teams": {
+    "Galatasaray": {
+      "team_id": "1",
+      "team_name": "Galatasaray",
+      "players": [
+        {
+          "id": "1",
+          "name": "Okan Buruk",
+          "position": "Teknik Direktör",
+          "nationality": "Türkiye",
+          "photo": "assets/images/okan_buruk.png"
+        },
+        {
+          "id": "2",
+          "name": "Hasan Şaş",
+          "position": "Yardımcı Antrenör",
+          "nationality": "Türkiye",
+          "photo": "assets/images/hasan_sas.png"
+        },
+        {
+          "id": "3",
+          "name": "Fernando Muslera",
+          "position": "Kaleci",
+          "nationality": "Uruguay",
+          "photo": "assets/images/muslera.png"
+        },
+        {
+          "id": "4",
+          "name": "Berk Balaban",
+          "position": "Kaleci",
+          "nationality": "Türkiye",
+          "photo": "assets/images/berk.png"
+        },
+        {
+          "id": "5",
+          "name": "Victor Nelsson",
+          "position": "Stoper",
+          "nationality": "Danimarka",
+          "photo": "assets/images/nelsson.png"
+        },
+        {
+          "id": "6",
+          "name": "Sacha Boey",
+          "position": "Sağ Bek",
+          "nationality": "Fransa",
+          "photo": "assets/images/boey.png"
+        },
+        {
+          "id": "7",
+          "name": "Kazımcan Karataş",
+          "position": "Sol Bek",
+          "nationality": "Türkiye",
+          "photo": "assets/images/kazimcan.png"
+        },
+        {
+          "id": "8",
+          "name": "Lucas Torreira",
+          "position": "Orta Saha",
+          "nationality": "Uruguay",
+          "photo": "assets/images/torreira.png"
+        },
+        {
+          "id": "9",
+          "name": "Kerem Aktürkoğlu",
+          "position": "Sol Kanat",
+          "nationality": "Türkiye",
+          "photo": "assets/images/kerem.png"
+        },
+        {
+          "id": "10",
+          "name": "Dries Mertens",
+          "position": "Sağ Kanat",
+          "nationality": "Belçika",
+          "photo": "assets/images/mertens.png"
+        },
+        {
+          "id": "11",
+          "name": "Mauro Icardi",
+          "position": "Forvet",
+          "nationality": "Arjantin",
+          "photo": "assets/images/icardi.png"
+        }
+      ]
+    },
+    "Fenerbahçe": {
+      "team_id": "2",
+      "team_name": "Fenerbahçe",
+      "players": [
+        {
+          "id": "1",
+          "name": "İsmail Kartal",
+          "position": "Teknik Direktör",
+          "nationality": "Türkiye",
+          "photo": "assets/images/ismail_kartal.png"
+        },
+        {
+          "id": "2",
+          "name": "Volkan Demirel",
+          "position": "Yardımcı Antrenör",
+          "nationality": "Türkiye",
+          "photo": "assets/images/volkan.png"
+        },
+        {
+          "id": "3",
+          "name": "Dominik Livakovic",
+          "position": "Kaleci",
+          "nationality": "Hırvatistan",
+          "photo": "assets/images/livakovic.png"
+        },
+        {
+          "id": "4",
+          "name": "Altay Bayındır",
+          "position": "Kaleci",
+          "nationality": "Türkiye",
+          "photo": "assets/images/altay.png"
+        },
+        {
+          "id": "5",
+          "name": "Rodrigo Becão",
+          "position": "Stoper",
+          "nationality": "Brezilya",
+          "photo": "assets/images/becao.png"
+        },
+        {
+          "id": "6",
+          "name": "Bright Osayi-Samuel",
+          "position": "Sağ Bek",
+          "nationality": "Nijerya",
+          "photo": "assets/images/osayi.png"
+        },
+        {
+          "id": "7",
+          "name": "Ferdi Kadıoğlu",
+          "position": "Sol Bek",
+          "nationality": "Türkiye",
+          "photo": "assets/images/ferdi.png"
+        },
+        {
+          "id": "8",
+          "name": "Fred",
+          "position": "Orta Saha",
+          "nationality": "Brezilya",
+          "photo": "assets/images/fred.png"
+        },
+        {
+          "id": "9",
+          "name": "Sebastian Szymanski",
+          "position": "Sol Kanat",
+          "nationality": "Polonya",
+          "photo": "assets/images/szymanski.png"
+        },
+        {
+          "id": "10",
+          "name": "Dusan Tadic",
+          "position": "Sağ Kanat",
+          "nationality": "Sırbistan",
+          "photo": "assets/images/tadic.png"
+        },
+        {
+          "id": "11",
+          "name": "Edin Dzeko",
+          "position": "Forvet",
+          "nationality": "Bosna Hersek",
+          "photo": "assets/images/dzeko.png"
+        }
+      ]
+    },
+    "Beşiktaş": {
+      "team_id": "3",
+      "team_name": "Beşiktaş",
+      "players": [
+        {
+          "id": "1",
+          "name": "Şenol Güneş",
+          "position": "Teknik Direktör",
+          "nationality": "Türkiye",
+          "photo": "assets/images/senol.png"
+        },
+        {
+          "id": "2",
+          "name": "Recep Uçar",
+          "position": "Yardımcı Antrenör",
+          "nationality": "Türkiye",
+          "photo": "assets/images/recep.png"
+        },
+        {
+          "id": "3",
+          "name": "Mert Günok",
+          "position": "Kaleci",
+          "nationality": "Türkiye",
+          "photo": "assets/images/mert.png"
+        },
+        {
+          "id": "4",
+          "name": "Ersin Destanoğlu",
+          "position": "Kaleci",
+          "nationality": "Türkiye",
+          "photo": "assets/images/ersin.png"
+        },
+        {
+          "id": "5",
+          "name": "Omar Colley",
+          "position": "Stoper",
+          "nationality": "Gambiya",
+          "photo": "assets/images/colley.png"
+        },
+        {
+          "id": "6",
+          "name": "Valentin Rosier",
+          "position": "Sağ Bek",
+          "nationality": "Fransa",
+          "photo": "assets/images/rosier.png"
+        },
+        {
+          "id": "7",
+          "name": "Arthur Masuaku",
+          "position": "Sol Bek",
+          "nationality": "Kongo",
+          "photo": "assets/images/masuaku.png"
+        },
+        {
+          "id": "8",
+          "name": "Gedson Fernandes",
+          "position": "Orta Saha",
+          "nationality": "Portekiz",
+          "photo": "assets/images/gedson.png"
+        },
+        {
+          "id": "9",
+          "name": "Rachid Ghezzal",
+          "position": "Sol Kanat",
+          "nationality": "Cezayir",
+          "photo": "assets/images/ghezzal.png"
+        },
+        {
+          "id": "10",
+          "name": "Cenk Tosun",
+          "position": "Sağ Kanat",
+          "nationality": "Türkiye",
+          "photo": "assets/images/cenk.png"
+        },
+        {
+          "id": "11",
+          "name": "Vincent Aboubakar",
+          "position": "Forvet",
+          "nationality": "Kamerun",
+          "photo": "assets/images/aboubakar.png"
+        }
+      ]
+    }
+  }
+}
